@@ -49,7 +49,8 @@ RANDOM_SEED = 42
 OUTPUT_CSV = "gemini_flickr8k_results.csv"
 API_DELAY = 90  # seconds between requests -- 10, 60 --> XX
 
-genai.configure(api_key="AIzaSyBbapqyvzWWn3TbP4fpe4PAn5BElclzwvs")
+# enter api key here
+genai.configure(api_key="")
 
 gemini_model = genai.GenerativeModel(GEMINI_MODEL_NAME)
 

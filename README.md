@@ -20,7 +20,7 @@ Both models were evaluated on a controlled subset of the Flickr8k dataset using 
 
 ## Purpose
 
-Multimodal large language models (MLLMs) combine visual perception with language generation. While proprietary systems often demonstrate strong performance, open-source models offer transparency and reproducibility.
+Multimodal large language models (MLLMs) combine visual understanding with language generation. While proprietary models often perform strongly, open-source alternatives offer transparency, reproducibility, and flexibility. They also could also broaden access, enabling research teams to innovate without reliance on major companies or sponsorship, supporting more independent and diverse advancements.
 
 This project aimed to:
 

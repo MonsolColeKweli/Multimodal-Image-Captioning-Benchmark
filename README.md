@@ -1,5 +1,5 @@
 # Multimodal Image Captioning Benchmark  
-**CSE 434 – Generative AI Final Project**
+**Project completed during course on Generative AI**
 
 ## Overview
 
